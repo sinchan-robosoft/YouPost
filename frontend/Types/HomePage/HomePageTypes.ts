@@ -1,0 +1,2 @@
+
+export type userName = string
